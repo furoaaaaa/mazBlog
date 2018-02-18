@@ -1,0 +1,20 @@
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.0/ext/byebug
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180218-16180-1rvezn8.rb extconf.rb
+creating Makefile
+
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR="
+generating byebug-x64-mingw32.def
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20180218-16180-1fr7ym5/byebug
