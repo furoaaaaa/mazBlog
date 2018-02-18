@@ -1,0 +1,21 @@
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/puma-3.11.2/ext/puma_http11
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180218-16180-1bzfjl5.rb extconf.rb
+checking for BIO_read() in -lcrypto... no
+checking for BIO_read() in -llibeay32... no
+creating Makefile
+
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/puma-3.11.2/ext/puma_http11
+make "DESTDIR=" clean
+
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/puma-3.11.2/ext/puma_http11
+make "DESTDIR="
+generating puma_http11-x64-mingw32.def
+compiling http11_parser.c
+compiling io_buffer.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.so
+
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/puma-3.11.2/ext/puma_http11
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20180218-16180-ns6t6f/puma

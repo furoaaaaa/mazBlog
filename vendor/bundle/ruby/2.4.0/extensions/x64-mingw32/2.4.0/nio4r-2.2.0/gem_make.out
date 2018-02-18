@@ -1,0 +1,14 @@
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/nio4r-2.2.0/ext/nio4r
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180218-16180-1jykq4c.rb extconf.rb
+
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/nio4r-2.2.0/ext/nio4r
+make "DESTDIR=" clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
+
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/nio4r-2.2.0/ext/nio4r
+make "DESTDIR="
+make: 'all' に対して行うべき事はありません.
+
+current directory: D:/satoshi/Desktop/mazBlog/vendor/bundle/ruby/2.4.0/gems/nio4r-2.2.0/ext/nio4r
+make "DESTDIR=" install
+make: 'install' に対して行うべき事はありません.
